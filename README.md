@@ -1,6 +1,6 @@
 # nnet
 
-A flexible neural network library for Clojure
+A (nascent) flexible neural network library for Clojure
 
 
 ## Installation
